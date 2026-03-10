@@ -57,7 +57,6 @@
 [Открыть таблицу с тест-кейсами](https://docs.google.com/spreadsheets/d/1ZNAx-o9V69l9mhkGmvRZBg_5wksJ0wCzkOYbF7UF3rw/edit?gid=220888493#gid=220888493)
 
 ### Таблица с баг-репортами
-Ссылка:  
 [Открыть таблицу с баг-репортами](https://docs.google.com/spreadsheets/d/1ZNAx-o9V69l9mhkGmvRZBg_5wksJ0wCzkOYbF7UF3rw/edit?gid=1249193571#gid=1249193571)
 
 ---
@@ -67,7 +66,6 @@
 Все тест-кейсы были выполнены, а найденные ошибки задокументированы и оформлены в виде баг-репортов.
 Составлен документальный отчёт о проделанной работе
 ### Отчёт по 1 проекту 1 спринта
-Ссылка:
 [Открыть документ отчёта](https://docs.google.com/document/d/1996ktv19e8kQ4iWmdF2nPvnZ2L4eX0Eu3v5DW7RgCEI/edit?tab=t.0) 
 ---
 
